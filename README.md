@@ -8,7 +8,8 @@ Check it out [utilso.com](https://utilso.com)
 
 **Want to add another tool? Send any of your suggestions here: sergei@utilso.com**
 
-![Utilso](banner-min.png)
+
+[![utilso.com](banner-min.png)](https://utilso.com)
 
 
 <!--
