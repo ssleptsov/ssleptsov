@@ -1,15 +1,18 @@
 ### 🖐️ Hey there, I'm Sergei
 
-I’m currently working on Utilso - all-in-one tools for developers.<br>
-If you want to save your time and stop go to a random websites then application can be useful for you.
+I’m currently working on Talevideo 
 
-Check it out [utilso.com](https://utilso.com)
+[talevideo.com](https://talevideo.com) - The easiest way to create a video of your website
 
-
-**Want to add another tool? Send any of your suggestions here: sergei@utilso.com**
+[![talevideo.com](talevideo-demo.gif)](https://talevideo.com)
 
 
-[![utilso.com](banner-min.png)](https://utilso.com)
+Other projects:
+
+[utilso.com](https://utilso.com) - All-in-one tools for developers. <br>
+*Want to add another tool? Send any of your suggestions here: sergei@utilso.com*
+
+[ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcut interface for your website
 
 
 <!--
